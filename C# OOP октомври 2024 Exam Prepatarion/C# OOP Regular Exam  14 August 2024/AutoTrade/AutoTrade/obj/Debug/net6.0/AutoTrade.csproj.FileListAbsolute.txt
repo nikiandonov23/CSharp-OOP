@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\refint\AutoTrade.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  14 August 2024\AutoTrade\AutoTrade\obj\Debug\net6.0\ref\AutoTrade.dll

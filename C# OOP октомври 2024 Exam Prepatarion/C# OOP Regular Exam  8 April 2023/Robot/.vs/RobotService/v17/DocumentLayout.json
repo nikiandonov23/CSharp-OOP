@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\repositories\\supplementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:repositories\\supplementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\repositories\\robotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:repositories\\robotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\models\\supplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:models\\supplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\models\\industrialassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:models\\industrialassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\models\\domesticassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:models\\domesticassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\models\\laserradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:models\\laserradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam  8 april 2023\\robot\\models\\specializedarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0699854-68BF-4860-B240-C73C82931C66}|RobotService.csproj|solutionrelative:models\\specializedarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:13:10.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Core\\Engine.cs",
+              "RelativeToolTip": "Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:11:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAIwK8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:10:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RobotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Repositories\\RobotRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RobotRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Repositories\\RobotRepository.cs",
+              "RelativeToolTip": "Repositories\\RobotRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:57:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Repositories\\SupplementRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SupplementRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Repositories\\SupplementRepository.cs",
+              "RelativeToolTip": "Repositories\\SupplementRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA9wCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:21:05.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "Models\\Robot.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\Robot.cs",
+              "RelativeToolTip": "Models\\Robot.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADwv4cAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:45:20.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplement.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\Supplement.cs",
+              "RelativeDocumentMoniker": "Models\\Supplement.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\Supplement.cs",
+              "RelativeToolTip": "Models\\Supplement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:40:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndustrialAssistant.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\IndustrialAssistant.cs",
+              "RelativeDocumentMoniker": "Models\\IndustrialAssistant.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\IndustrialAssistant.cs",
+              "RelativeToolTip": "Models\\IndustrialAssistant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:20:05.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DomesticAssistant.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\DomesticAssistant.cs",
+              "RelativeDocumentMoniker": "Models\\DomesticAssistant.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\DomesticAssistant.cs",
+              "RelativeToolTip": "Models\\DomesticAssistant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:18:54.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LaserRadar.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\LaserRadar.cs",
+              "RelativeDocumentMoniker": "Models\\LaserRadar.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\LaserRadar.cs",
+              "RelativeToolTip": "Models\\LaserRadar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:44:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpecializedArm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\SpecializedArm.cs",
+              "RelativeDocumentMoniker": "Models\\SpecializedArm.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam  8 April 2023\\Robot\\Models\\SpecializedArm.cs",
+              "RelativeToolTip": "Models\\SpecializedArm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:43:17.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

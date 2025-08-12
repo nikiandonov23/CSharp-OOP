@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\bin\Debug\net6.0\VendingRetail.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\bin\Debug\net6.0\VendingRetail.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\bin\Debug\net6.0\VendingRetail.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\bin\Debug\net6.0\VendingRetail.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\bin\Debug\net6.0\VendingRetail.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\VendingRetail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\VendingRetail.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\VendingRetail.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\VendingRetail.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\VendingRetail.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\refint\VendingRetail.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\VendingRetail.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\VendingRetail.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Exam Regular  5 August 2023\VendingRetail\VendingRetail\obj\Debug\net6.0\ref\VendingRetail.dll

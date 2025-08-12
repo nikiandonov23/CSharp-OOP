@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\models\\cargovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\cargovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\models\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\models\\contracts\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\contracts\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 april 2023\\edriverent\\models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F537578F-194F-4357-8FA4-A44D414E0D9C}|EDriveRent.csproj|solutionrelative:models\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:47:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Repositories\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RouteRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Repositories\\RouteRepository.cs",
+              "RelativeToolTip": "Repositories\\RouteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:17:25.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CargoVan.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\CargoVan.cs",
+              "RelativeDocumentMoniker": "Models\\CargoVan.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\CargoVan.cs",
+              "RelativeToolTip": "Models\\CargoVan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:33:59.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "Repositories\\VehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:03:18.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAIwHAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:37:08.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAG8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:39:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "Models\\Route.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Route.cs",
+              "RelativeToolTip": "Models\\Route.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwD8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:35:25.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PassengerCar.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\PassengerCar.cs",
+              "RelativeDocumentMoniker": "Models\\PassengerCar.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\PassengerCar.cs",
+              "RelativeToolTip": "Models\\PassengerCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:33:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAowIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:04:50.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:40:45.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:42:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Contracts\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Contracts\\IVehicle.cs",
+              "RelativeToolTip": "Models\\Contracts\\IVehicle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:46:33.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Contracts\\IUser.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\IUser.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 April 2023\\EDriveRent\\Models\\Contracts\\IUser.cs",
+              "RelativeToolTip": "Models\\Contracts\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:56:27.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

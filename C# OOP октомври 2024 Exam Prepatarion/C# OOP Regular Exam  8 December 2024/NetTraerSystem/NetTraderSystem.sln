@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTraderSystem", "NetTraderSystem\NetTraderSystem.csproj", "{37AB8646-3007-45D2-BEA6-557B4F806BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetTraderSystem.Tests", "NetTraderSystem.Tests\NetTraderSystem.Tests.csproj", "{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AB8646-3007-45D2-BEA6-557B4F806BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AB8646-3007-45D2-BEA6-557B4F806BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AB8646-3007-45D2-BEA6-557B4F806BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AB8646-3007-45D2-BEA6-557B4F806BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5208218A-AF41-4BCC-BA79-F1B9585C2C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0BF073B-805E-4406-822C-E0280B53FE46}
+	EndGlobalSection
+EndGlobal

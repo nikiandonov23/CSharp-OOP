@@ -1,0 +1,859 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2420-26E3-4E42-8ECB-B7D43114619D}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\demo\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2420-26E3-4E42-8ECB-B7D43114619D}|demo\\demo.csproj|solutionrelative:demo\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADF2420-26E3-4E42-8ECB-B7D43114619D}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADF2420-26E3-4E42-8ECB-B7D43114619D}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BBDD67-3182-49F7-9333-A67939D000BE}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\bladeknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\museelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\elf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\darkwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\sportcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\familycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\crossmotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\racemotorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\exercise inheritance\\inheritanceexercise_skeleton_6.0\\needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed DA SE RESHI PAK.csproj|solutionrelative:needforspeed\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\demo\\Human.cs",
+              "RelativeDocumentMoniker": "demo\\Human.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\demo\\Human.cs",
+              "RelativeToolTip": "demo\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:26:31.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:26:14.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\StartUp.cs",
+              "RelativeDocumentMoniker": "Zoo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\StartUp.cs",
+              "RelativeToolTip": "Zoo\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:12:17.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:35:22.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tomcat.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Tomcat.cs",
+              "RelativeDocumentMoniker": "Animals\\Tomcat.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Tomcat.cs",
+              "RelativeToolTip": "Animals\\Tomcat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:37:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Cat.cs",
+              "RelativeToolTip": "Animals\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:34:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frog.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Frog.cs",
+              "RelativeDocumentMoniker": "Animals\\Frog.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Frog.cs",
+              "RelativeToolTip": "Animals\\Frog.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:34:22.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Dog.cs",
+              "RelativeToolTip": "Animals\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:32:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Animal.cs*",
+              "RelativeToolTip": "Animals\\Animal.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:23:09.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Cake.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Cake.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Cake.cs",
+              "RelativeToolTip": "Restaurant\\Cake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:31:21.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Soup.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Soup.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Soup.cs",
+              "RelativeToolTip": "Restaurant\\Soup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:31:01.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Fish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Fish.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Fish.cs",
+              "RelativeToolTip": "Restaurant\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:30:33.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dessert.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Dessert.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Dessert.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Dessert.cs",
+              "RelativeToolTip": "Restaurant\\Dessert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:28:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Starter.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Starter.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Starter.cs",
+              "RelativeToolTip": "Restaurant\\Starter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:27:45.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainDish.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\MainDish.cs",
+              "RelativeDocumentMoniker": "Restaurant\\MainDish.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\MainDish.cs",
+              "RelativeToolTip": "Restaurant\\MainDish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:26:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Food.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Food.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Food.cs",
+              "RelativeToolTip": "Restaurant\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:25:02.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Person\\Person.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Person\\Person.cs",
+              "RelativeToolTip": "Person\\Person.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:18:57.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kitten.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Kitten.cs",
+              "RelativeDocumentMoniker": "Animals\\Kitten.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Animals\\Kitten.cs",
+              "RelativeToolTip": "Animals\\Kitten.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:35:39.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Tea.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Tea.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Tea.cs",
+              "RelativeToolTip": "Restaurant\\Tea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:15:21.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Coffee.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Coffee.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Coffee.cs",
+              "RelativeToolTip": "Restaurant\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:12:30.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ColdBeverage.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\ColdBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ColdBeverage.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\ColdBeverage.cs",
+              "RelativeToolTip": "Restaurant\\ColdBeverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:11:40.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HotBeverage.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\HotBeverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\HotBeverage.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\HotBeverage.cs",
+              "RelativeToolTip": "Restaurant\\HotBeverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:10:35.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Beverage.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Beverage.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Beverage.cs",
+              "RelativeToolTip": "Restaurant\\Beverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:06:59.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Product.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Restaurant\\Product.cs",
+              "RelativeToolTip": "Restaurant\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:05:54.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\StartUp.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\StartUp.cs",
+              "RelativeToolTip": "NeedForSpeed\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:51:33.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SportCar.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\SportCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\SportCar.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\SportCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\SportCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:54:06.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FamilyCar.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\FamilyCar.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\FamilyCar.cs",
+              "RelativeToolTip": "NeedForSpeed\\FamilyCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:53:47.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Car.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Car.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Car.cs",
+              "RelativeToolTip": "NeedForSpeed\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:53:17.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CrossMotorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\CrossMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\CrossMotorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:52:59.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RaceMotorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\RaceMotorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\RaceMotorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:52:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Motorcycle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:52:07.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Vehicle.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\NeedForSpeed\\Vehicle.cs",
+              "RelativeToolTip": "NeedForSpeed\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:51:44.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BladeKnight.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\BladeKnight.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\BladeKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\BladeKnight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:38:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DarkKnight.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkKnight.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\DarkKnight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkKnight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:38:40.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Knight.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Knight.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Knight.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:38:20.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SoulMaster.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\SoulMaster.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\SoulMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:38:01.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DarkWizard.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\DarkWizard.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\DarkWizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\DarkWizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:37:39.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Wizard.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Wizard.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Wizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:37:24.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MuseElf.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\MuseElf.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\MuseElf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\MuseElf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:37:07.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:36:36.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Elf.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Elf.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Elf.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Elf.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Elf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:35:58.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Hero.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\Hero.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\PlayersAndMonsters\\Hero.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\Hero.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:33:40.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Bear.cs",
+              "RelativeDocumentMoniker": "Zoo\\Bear.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Bear.cs",
+              "RelativeToolTip": "Zoo\\Bear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:31:20.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Gorilla.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Gorilla.cs",
+              "RelativeDocumentMoniker": "Zoo\\Gorilla.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Gorilla.cs",
+              "RelativeToolTip": "Zoo\\Gorilla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:30:58.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Snake.cs",
+              "RelativeDocumentMoniker": "Zoo\\Snake.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Snake.cs",
+              "RelativeToolTip": "Zoo\\Snake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:30:35.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Lizard.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Lizard.cs",
+              "RelativeDocumentMoniker": "Zoo\\Lizard.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Lizard.cs",
+              "RelativeToolTip": "Zoo\\Lizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:30:12.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Mammal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Mammal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Mammal.cs",
+              "RelativeToolTip": "Zoo\\Mammal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:29:45.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Reptile.cs",
+              "RelativeDocumentMoniker": "Zoo\\Reptile.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Reptile.cs",
+              "RelativeToolTip": "Zoo\\Reptile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:29:10.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Animal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Zoo\\Animal.cs",
+              "RelativeToolTip": "Zoo\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:27:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Person\\StartUp.cs",
+              "RelativeDocumentMoniker": "Person\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Person\\StartUp.cs",
+              "RelativeToolTip": "Person\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:15:47.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Person\\Child.cs",
+              "RelativeDocumentMoniker": "Person\\Child.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Exercise Inheritance\\InheritanceExercise_Skeleton_6.0\\Person\\Child.cs",
+              "RelativeToolTip": "Person\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:54:35.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

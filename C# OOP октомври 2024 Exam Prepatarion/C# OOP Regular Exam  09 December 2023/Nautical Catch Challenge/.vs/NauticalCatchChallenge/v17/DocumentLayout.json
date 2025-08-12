@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\diver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\contracts\\idiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\contracts\\idiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\fishrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\predatoryfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\predatoryfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\freediver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\repositories\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:repositories\\diverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\scubadiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\scubadiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\reeffish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam - 09 december 2023\\nautical catch challenge\\models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB2918-2FB7-428B-93F5-1D7A48441DC8}|NauticalCatchChallenge.csproj|solutionrelative:models\\deepseafish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDiver.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\Contracts\\IDiver.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\IDiver.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\Contracts\\IDiver.cs",
+              "RelativeToolTip": "Models\\Contracts\\IDiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:37:09.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAjwJ8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:02:38.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FreeDiver.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\FreeDiver.cs",
+              "RelativeDocumentMoniker": "Models\\FreeDiver.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\FreeDiver.cs",
+              "RelativeToolTip": "Models\\FreeDiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:20:32.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diver.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\Diver.cs",
+              "RelativeDocumentMoniker": "Models\\Diver.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\Diver.cs",
+              "RelativeToolTip": "Models\\Diver.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:09:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Core\\Engine.cs",
+              "RelativeToolTip": "Core\\Engine.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAD4vzMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:02:55.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\Fish.cs",
+              "RelativeDocumentMoniker": "Models\\Fish.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\Fish.cs",
+              "RelativeToolTip": "Models\\Fish.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:31:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:38:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Repositories\\FishRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FishRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Repositories\\FishRepository.cs",
+              "RelativeToolTip": "Repositories\\FishRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:03:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScubaDiver.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\ScubaDiver.cs",
+              "RelativeDocumentMoniker": "Models\\ScubaDiver.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\ScubaDiver.cs",
+              "RelativeToolTip": "Models\\ScubaDiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:26:06.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Repositories\\DiverRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DiverRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Repositories\\DiverRepository.cs",
+              "RelativeToolTip": "Repositories\\DiverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:45:26.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PredatoryFish.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\PredatoryFish.cs",
+              "RelativeDocumentMoniker": "Models\\PredatoryFish.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\PredatoryFish.cs",
+              "RelativeToolTip": "Models\\PredatoryFish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:06:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeepSeaFish.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\DeepSeaFish.cs",
+              "RelativeDocumentMoniker": "Models\\DeepSeaFish.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\DeepSeaFish.cs",
+              "RelativeToolTip": "Models\\DeepSeaFish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:07:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReefFish.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\ReefFish.cs",
+              "RelativeDocumentMoniker": "Models\\ReefFish.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam - 09 December 2023\\Nautical Catch Challenge\\Models\\ReefFish.cs",
+              "RelativeToolTip": "Models\\ReefFish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:03:58.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

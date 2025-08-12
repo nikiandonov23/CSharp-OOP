@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\bin\Debug\net6.0\RobotService.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\bin\Debug\net6.0\RobotService.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\bin\Debug\net6.0\RobotService.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\bin\Debug\net6.0\RobotService.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\bin\Debug\net6.0\RobotService.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\RobotService.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\refint\RobotService.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\RobotService.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Robot\obj\Debug\net6.0\ref\RobotService.dll

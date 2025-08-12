@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 April 2023\Factory\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

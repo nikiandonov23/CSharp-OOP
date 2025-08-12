@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\CocktailBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\CocktailBar.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\bin\Debug\net6.0\CocktailBar.exe
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\bin\Debug\net6.0\CocktailBar.deps.json
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\bin\Debug\net6.0\CocktailBar.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\bin\Debug\net6.0\CocktailBar.dll
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\bin\Debug\net6.0\CocktailBar.pdb
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\CocktailBar.dll
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\refint\CocktailBar.dll
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\CocktailBar.pdb
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\CocktailBar.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Coctail Bar\CocktailBar\obj\Debug\net6.0\ref\CocktailBar.dll

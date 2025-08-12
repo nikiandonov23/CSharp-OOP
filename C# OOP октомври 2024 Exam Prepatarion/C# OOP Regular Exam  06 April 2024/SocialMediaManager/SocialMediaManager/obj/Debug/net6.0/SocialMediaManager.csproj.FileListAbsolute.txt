@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\refint\SocialMediaManager.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  06 April 2024\SocialMediaManager\SocialMediaManager\obj\Debug\net6.0\ref\SocialMediaManager.dll

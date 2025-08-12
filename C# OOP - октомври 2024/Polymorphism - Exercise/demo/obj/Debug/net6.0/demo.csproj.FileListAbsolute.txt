@@ -1,0 +1,5 @@
+C:\Users\НАТАЛИ\source\repos\Exercises Polymorphism\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Exercises Polymorphism\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercises Polymorphism\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Exercises Polymorphism\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Exercises Polymorphism\demo\obj\Debug\net6.0\demo.sourcelink.json

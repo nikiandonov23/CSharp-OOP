@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.exe
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.deps.json
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.dll
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\bin\Debug\net6.0\SecureOpsSystem.pdb
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.dll
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\refint\SecureOpsSystem.dll
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.pdb
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\SecureOpsSystem.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\SecureOpsSystem\SecureOpsSystem\obj\Debug\net6.0\ref\SecureOpsSystem.dll

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed DA SE RESHI PAK.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed DA SE RESHI PAK.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed DA SE RESHI PAK.dll

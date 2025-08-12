@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\climberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\peakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\models\\peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\peak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\oxygenclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\naturalclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\climber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\basecamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\models\\contracts\\iclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:models\\contracts\\iclimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  19 december 2023\\highwaytopeak\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20354CBB-A52D-47BC-84C0-B809A1CE4C0E}|HighwayToPeak.csproj|solutionrelative:repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Climber.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\Climber.cs",
+              "RelativeDocumentMoniker": "Models\\Climber.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\Climber.cs",
+              "RelativeToolTip": "Models\\Climber.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowGkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:39:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Peak.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\Peak.cs",
+              "RelativeDocumentMoniker": "Models\\Peak.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\Peak.cs",
+              "RelativeToolTip": "Models\\Peak.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:31:09.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NaturalClimber.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\NaturalClimber.cs",
+              "RelativeDocumentMoniker": "Models\\NaturalClimber.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\NaturalClimber.cs",
+              "RelativeToolTip": "Models\\NaturalClimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:13:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OxygenClimber.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\OxygenClimber.cs",
+              "RelativeDocumentMoniker": "Models\\OxygenClimber.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\OxygenClimber.cs",
+              "RelativeToolTip": "Models\\OxygenClimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:09:35.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClimberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Repositories\\ClimberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClimberRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Repositories\\ClimberRepository.cs",
+              "RelativeToolTip": "Repositories\\ClimberRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:33:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeakRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Repositories\\PeakRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PeakRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Repositories\\PeakRepository.cs",
+              "RelativeToolTip": "Repositories\\PeakRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:25:57.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Core\\Controller.cs",
+              "RelativeToolTip": "Core\\Controller.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAwwJoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:02:45.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseCamp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\BaseCamp.cs",
+              "RelativeDocumentMoniker": "Models\\BaseCamp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\BaseCamp.cs",
+              "RelativeToolTip": "Models\\BaseCamp.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:17:44.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:07:10.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClimber.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\Contracts\\IClimber.cs",
+              "RelativeDocumentMoniker": "Models\\Contracts\\IClimber.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Models\\Contracts\\IClimber.cs",
+              "RelativeToolTip": "Models\\Contracts\\IClimber.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvwoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:53:59.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:35:28.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  19 December 2023\\HighwayToPeak\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:31:56.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\01. single inheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|solutionrelative:01. single inheritance\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\01. single inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|solutionrelative:01. single inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\01. single inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|solutionrelative:01. single inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\01. single inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92616251-00DC-45A3-93E2-66B52E91B0EE}|01. Single Inheritance\\01. Single Inheritance.csproj|solutionrelative:01. single inheritance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AF16BA-D2BC-419B-B94E-62FC2739D3A9}|5. Stack of Strings\\5. Stack of Strings.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\5. stack of strings\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AF16BA-D2BC-419B-B94E-62FC2739D3A9}|5. Stack of Strings\\5. Stack of Strings.csproj|solutionrelative:5. stack of strings\\stackofstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AF16BA-D2BC-419B-B94E-62FC2739D3A9}|5. Stack of Strings\\5. Stack of Strings.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\5. stack of strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AF16BA-D2BC-419B-B94E-62FC2739D3A9}|5. Stack of Strings\\5. Stack of Strings.csproj|solutionrelative:5. stack of strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EFB3F2-A02D-4976-A046-F233F337515D}|04. Random List\\04. Random List.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\04. random list\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EFB3F2-A02D-4976-A046-F233F337515D}|04. Random List\\04. Random List.csproj|solutionrelative:04. random list\\randomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EFB3F2-A02D-4976-A046-F233F337515D}|04. Random List\\04. Random List.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab inheritance\\04. random list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EFB3F2-A02D-4976-A046-F233F337515D}|04. Random List\\04. Random List.csproj|solutionrelative:04. random list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StackOfStrings.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\5. Stack of Strings\\StackOfStrings.cs",
+              "RelativeDocumentMoniker": "5. Stack of Strings\\StackOfStrings.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\5. Stack of Strings\\StackOfStrings.cs",
+              "RelativeToolTip": "5. Stack of Strings\\StackOfStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:20:25.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\5. Stack of Strings\\StartUp.cs",
+              "RelativeDocumentMoniker": "5. Stack of Strings\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\5. Stack of Strings\\StartUp.cs",
+              "RelativeToolTip": "5. Stack of Strings\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:19:26.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandomList.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\04. Random List\\RandomList.cs",
+              "RelativeDocumentMoniker": "04. Random List\\RandomList.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\04. Random List\\RandomList.cs",
+              "RelativeToolTip": "04. Random List\\RandomList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:59:19.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\04. Random List\\Program.cs",
+              "RelativeDocumentMoniker": "04. Random List\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\04. Random List\\Program.cs",
+              "RelativeToolTip": "04. Random List\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:58:01.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\Cat.cs",
+              "RelativeDocumentMoniker": "01. Single Inheritance\\Cat.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\Cat.cs",
+              "RelativeToolTip": "01. Single Inheritance\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:53:45.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "01. Single Inheritance\\Dog.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\Dog.cs",
+              "RelativeToolTip": "01. Single Inheritance\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:38:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "01. Single Inheritance\\Animal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\Animal.cs",
+              "RelativeToolTip": "01. Single Inheritance\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:37:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\StartUp.cs",
+              "RelativeDocumentMoniker": "01. Single Inheritance\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Inheritance\\01. Single Inheritance\\StartUp.cs",
+              "RelativeToolTip": "01. Single Inheritance\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:02:55.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\bin\Debug\net6.0\BlackFriday.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\refint\BlackFriday.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\BlackFriday.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\BlackFriday\BlackFriday\obj\Debug\net6.0\ref\BlackFriday.dll

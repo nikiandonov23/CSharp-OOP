@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\bin\Debug\net6.0\2. Enter Numbers.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\bin\Debug\net6.0\2. Enter Numbers.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\bin\Debug\net6.0\2. Enter Numbers.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\bin\Debug\net6.0\2. Enter Numbers.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\bin\Debug\net6.0\2. Enter Numbers.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\refint\2. Enter Numbers.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\2. Enter Numbers.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\2. Enter Numbers\obj\Debug\net6.0\ref\2. Enter Numbers.dll

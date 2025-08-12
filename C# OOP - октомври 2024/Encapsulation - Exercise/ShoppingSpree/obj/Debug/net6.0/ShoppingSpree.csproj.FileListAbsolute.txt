@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

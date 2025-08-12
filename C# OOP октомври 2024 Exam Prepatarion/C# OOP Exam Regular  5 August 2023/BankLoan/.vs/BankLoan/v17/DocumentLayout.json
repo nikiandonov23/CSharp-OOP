@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\studentloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\studentloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\mortgageloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\mortgageloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\centralbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\centralbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\contracts\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\contracts\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|c:\\users\\nikia\\source\\repos\\c# oop exams\\c# oop exam regular  5 august 2023\\bankloan\\bankloan\\models\\adult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54257AD-9807-4B6D-9E8F-BF943B59BF01}|BankLoan\\BankLoan.csproj|solutionrelative:bankloan\\models\\adult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Student.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:44:03.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentLoan.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\StudentLoan.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\StudentLoan.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\StudentLoan.cs",
+              "RelativeToolTip": "BankLoan\\Models\\StudentLoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:33:29.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Repositories\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "BankLoan\\Repositories\\LoanRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:27:40.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Core\\Controller.cs",
+              "RelativeToolTip": "BankLoan\\Core\\Controller.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:53:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Bank.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Bank.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:54:16.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MortgageLoan.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\MortgageLoan.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\MortgageLoan.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\MortgageLoan.cs",
+              "RelativeToolTip": "BankLoan\\Models\\MortgageLoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:34:29.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Client.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Client.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:35:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Loan.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Loan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:30:32.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CentralBank.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\CentralBank.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\CentralBank.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\CentralBank.cs",
+              "RelativeToolTip": "BankLoan\\Models\\CentralBank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:26:03.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "BankLoan\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:05:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "BankLoan\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:36:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Contracts\\IBank.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Contracts\\IBank.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Contracts\\IBank.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Contracts\\IBank.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:24:34.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Adult.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Adult.cs",
+              "RelativeDocumentMoniker": "BankLoan\\Models\\Adult.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\C# OOP Exams\\C# OOP Exam Regular  5 August 2023\\BankLoan\\BankLoan\\Models\\Adult.cs",
+              "RelativeToolTip": "BankLoan\\Models\\Adult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:51:35.782Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a33ca030-064b-5991-ba18-12eb0f56cedd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

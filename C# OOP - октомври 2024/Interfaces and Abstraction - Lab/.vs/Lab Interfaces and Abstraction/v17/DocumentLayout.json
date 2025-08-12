@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\demo\\chovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|solutionrelative:demo\\chovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\demo\\izpraven chovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|solutionrelative:demo\\izpraven chovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\demo\\razumen chovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD0FE3C-D291-4E3D-862D-F811A25FA3DA}|demo\\demo.csproj|solutionrelative:demo\\razumen chovek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|solutionrelative:cars\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|solutionrelative:cars\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\1. shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|solutionrelative:1. shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\cars\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|solutionrelative:cars\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|solutionrelative:cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\1. shapes\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|solutionrelative:1. shapes\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276F6FC6-433B-4B66-9645-3D13084E97E1}|Cars\\Cars.csproj|solutionrelative:cars\\ielectriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cars\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\1. shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|solutionrelative:1. shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\1. shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|solutionrelative:1. shapes\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab interfaces and abstraction\\1. shapes\\shapes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F692115-7D13-4E11-9FF6-5D2C1046F4EC}|1. Shapes\\Shapes.csproj|solutionrelative:1. shapes\\shapes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Razumen Chovek.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Razumen Chovek.cs",
+              "RelativeDocumentMoniker": "demo\\Razumen Chovek.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Razumen Chovek.cs",
+              "RelativeToolTip": "demo\\Razumen Chovek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:26:44.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Izpraven chovek.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Izpraven chovek.cs",
+              "RelativeDocumentMoniker": "demo\\Izpraven chovek.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Izpraven chovek.cs",
+              "RelativeToolTip": "demo\\Izpraven chovek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:25:14.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chovek.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Chovek.cs",
+              "RelativeDocumentMoniker": "demo\\Chovek.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Chovek.cs",
+              "RelativeToolTip": "demo\\Chovek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:21:33.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\Seat.cs",
+              "RelativeDocumentMoniker": "Cars\\Seat.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\Seat.cs",
+              "RelativeToolTip": "Cars\\Seat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:39:58.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp .cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\StartUp .cs",
+              "RelativeDocumentMoniker": "Cars\\StartUp .cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\StartUp .cs",
+              "RelativeToolTip": "Cars\\StartUp .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:34:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\ICar.cs",
+              "RelativeDocumentMoniker": "Cars\\ICar.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\ICar.cs",
+              "RelativeToolTip": "Cars\\ICar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:34:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "1. Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\Circle.cs",
+              "RelativeToolTip": "1. Shapes\\Circle.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:18:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\IDrawable.cs",
+              "RelativeDocumentMoniker": "1. Shapes\\IDrawable.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\IDrawable.cs",
+              "RelativeToolTip": "1. Shapes\\IDrawable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:17:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Shapes.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\Shapes.csproj",
+              "RelativeDocumentMoniker": "1. Shapes\\Shapes.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\Shapes.csproj",
+              "RelativeToolTip": "1. Shapes\\Shapes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T14:14:57.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp .cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\StartUp .cs",
+              "RelativeDocumentMoniker": "1. Shapes\\StartUp .cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\StartUp .cs",
+              "RelativeToolTip": "1. Shapes\\StartUp .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:53:43.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\Tesla.cs",
+              "RelativeDocumentMoniker": "Cars\\Tesla.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\Tesla.cs",
+              "RelativeToolTip": "Cars\\Tesla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:43:18.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\Program.cs",
+              "RelativeDocumentMoniker": "Cars\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\Program.cs",
+              "RelativeToolTip": "Cars\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:47:39.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:36:22.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "1. Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\1. Shapes\\Rectangle.cs",
+              "RelativeToolTip": "1. Shapes\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:18:40.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\IElectricCar.cs",
+              "RelativeDocumentMoniker": "Cars\\IElectricCar.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Interfaces and Abstraction\\Cars\\IElectricCar.cs",
+              "RelativeToolTip": "Cars\\IElectricCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:37:51.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

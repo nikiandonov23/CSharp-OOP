@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\refint\Railway.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\ref\Railway.dll

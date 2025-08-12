@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\models\\contracts\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\contracts\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\models\\seniormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\seniormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\models\\professionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\professionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\footballmanager\\footballmanager\\models\\amateurmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD572A-3EA0-4955-B0D4-2968249CD8F3}|FootballManager\\FootballManager.csproj|solutionrelative:footballmanager\\models\\amateurmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "FootballManager\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:35:10.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Core\\Controller.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Controller.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAmwLQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:13:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Core\\Engine.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Engine.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:07:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "FootballManager\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:28:09.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\Team.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Team.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:28:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfessionalManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\ProfessionalManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\ProfessionalManager.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\ProfessionalManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\ProfessionalManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:22:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Core\\Contracts\\IController.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Core\\Contracts\\IController.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Core\\Contracts\\IController.cs",
+              "RelativeToolTip": "FootballManager\\Core\\Contracts\\IController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:08:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\Contracts\\IManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Contracts\\IManager.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\Contracts\\IManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Contracts\\IManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:39:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\Manager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:57:39.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeniorManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\SeniorManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\SeniorManager.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\SeniorManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\SeniorManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:21:00.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AmateurManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\AmateurManager.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Models\\AmateurManager.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Models\\AmateurManager.cs",
+              "RelativeToolTip": "FootballManager\\Models\\AmateurManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:04:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\FootballManager\\FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "FootballManager\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:13:54.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

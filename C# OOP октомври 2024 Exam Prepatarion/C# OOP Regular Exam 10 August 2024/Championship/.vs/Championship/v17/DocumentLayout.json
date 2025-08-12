@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam \u2013 10 August 2024\\Championship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A317FE61-C091-4462-976A-86C6F2A4CC80}|Championship.Tests\\Championship.Tests.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop regular exam \u2013 10 august 2024\\championship\\championship.tests\\leaguetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A317FE61-C091-4462-976A-86C6F2A4CC80}|Championship.Tests\\Championship.Tests.csproj|solutionrelative:championship.tests\\leaguetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeagueTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam \u2013 10 August 2024\\Championship\\Championship.Tests\\LeagueTests.cs",
+              "RelativeDocumentMoniker": "Championship.Tests\\LeagueTests.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Regular Exam \u2013 10 August 2024\\Championship\\Championship.Tests\\LeagueTests.cs",
+              "RelativeToolTip": "Championship.Tests\\LeagueTests.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAUwJMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:01:49.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

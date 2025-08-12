@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3CC380-7210-4BE3-9A6D-121FCE5F8C51}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3CC380-7210-4BE3-9A6D-121FCE5F8C51}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3CC380-7210-4BE3-9A6D-121FCE5F8C51}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\authorproblem\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3CC380-7210-4BE3-9A6D-121FCE5F8C51}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3CC380-7210-4BE3-9A6D-121FCE5F8C51}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3CC380-7210-4BE3-9A6D-121FCE5F8C51}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\attributes\\bella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|solutionrelative:attributes\\bella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\attributes\\niki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|solutionrelative:attributes\\niki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\attributes\\natali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|solutionrelative:attributes\\natali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\attributes\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|solutionrelative:attributes\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E3D4D5-0051-4702-BF86-284D14B9B5FA}|Attributes\\Attributes.csproj|solutionrelative:attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B8F83C-1B2B-477D-AA7C-53439052322C}|Stealer\\Stealer.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\stealer\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B8F83C-1B2B-477D-AA7C-53439052322C}|Stealer\\Stealer.csproj|solutionrelative:stealer\\startup .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B8F83C-1B2B-477D-AA7C-53439052322C}|Stealer\\Stealer.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B8F83C-1B2B-477D-AA7C-53439052322C}|Stealer\\Stealer.csproj|solutionrelative:stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B8F83C-1B2B-477D-AA7C-53439052322C}|Stealer\\Stealer.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab  reflection and attributes\\stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B8F83C-1B2B-477D-AA7C-53439052322C}|Stealer\\Stealer.csproj|solutionrelative:stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tracker.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\AuthorProblem\\Tracker.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\Tracker.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\AuthorProblem\\Tracker.cs",
+              "RelativeToolTip": "AuthorProblem\\Tracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:03:12.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\AuthorProblem\\AuthorAttribute.cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\AuthorAttribute.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\AuthorProblem\\AuthorAttribute.cs",
+              "RelativeToolTip": "AuthorProblem\\AuthorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:56:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp .cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\AuthorProblem\\StartUp .cs",
+              "RelativeDocumentMoniker": "AuthorProblem\\StartUp .cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\AuthorProblem\\StartUp .cs",
+              "RelativeToolTip": "AuthorProblem\\StartUp .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:33:15.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Author.cs",
+              "RelativeDocumentMoniker": "Attributes\\Author.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Author.cs",
+              "RelativeToolTip": "Attributes\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:29:57.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bella.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Bella.cs",
+              "RelativeDocumentMoniker": "Attributes\\Bella.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Bella.cs",
+              "RelativeToolTip": "Attributes\\Bella.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:22:13.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Natali.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Natali.cs",
+              "RelativeDocumentMoniker": "Attributes\\Natali.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Natali.cs",
+              "RelativeToolTip": "Attributes\\Natali.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:19:29.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Niki.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Niki.cs",
+              "RelativeDocumentMoniker": "Attributes\\Niki.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Niki.cs",
+              "RelativeToolTip": "Attributes\\Niki.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:19:20.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Program.cs",
+              "RelativeDocumentMoniker": "Attributes\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Attributes\\Program.cs",
+              "RelativeToolTip": "Attributes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:18:51.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Stealer\\Spy.cs",
+              "RelativeDocumentMoniker": "Stealer\\Spy.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Stealer\\Spy.cs",
+              "RelativeToolTip": "Stealer\\Spy.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:48:58.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Stealer\\Hacker.cs",
+              "RelativeDocumentMoniker": "Stealer\\Hacker.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Stealer\\Hacker.cs",
+              "RelativeToolTip": "Stealer\\Hacker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:47:49.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp .cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Stealer\\StartUp .cs",
+              "RelativeDocumentMoniker": "Stealer\\StartUp .cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab  Reflection and Attributes\\Stealer\\StartUp .cs",
+              "RelativeToolTip": "Stealer\\StartUp .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:02:08.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

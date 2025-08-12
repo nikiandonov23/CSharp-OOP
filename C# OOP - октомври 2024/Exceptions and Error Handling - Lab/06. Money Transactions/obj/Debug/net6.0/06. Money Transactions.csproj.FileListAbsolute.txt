@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\bin\Debug\net6.0\06. Money Transactions.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\refint\06. Money Transactions.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\06. Money Transactions.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\06. Money Transactions\obj\Debug\net6.0\ref\06. Money Transactions.dll

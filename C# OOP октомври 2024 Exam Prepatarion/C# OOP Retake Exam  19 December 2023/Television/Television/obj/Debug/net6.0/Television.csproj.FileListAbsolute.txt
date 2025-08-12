@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\bin\Debug\net6.0\Television.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\bin\Debug\net6.0\Television.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\bin\Debug\net6.0\Television.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\bin\Debug\net6.0\Television.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\Television.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\refint\Television.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\Television.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam  19 December 2023\Television\Television\obj\Debug\net6.0\ref\Television.dll

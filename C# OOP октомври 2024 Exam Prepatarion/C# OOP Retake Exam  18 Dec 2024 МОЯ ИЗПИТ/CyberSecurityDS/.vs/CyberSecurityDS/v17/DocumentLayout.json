@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\defensivesoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\defensivesoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\cyberattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\cyberattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\antivirus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\antivirus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\contracts\\icyberattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\contracts\\icyberattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\repositories\\defensivesoftwarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\repositories\\defensivesoftwarerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\repositories\\cyberattackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\repositories\\cyberattackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\systemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\systemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\firewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\firewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\malwareattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\malwareattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam  18 dec 2024 \u043C\u043E\u044F \u0438\u0437\u043F\u0438\u0442\\cybersecurityds\\cybersecurityds\\models\\phishingattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE183D-12F7-47CD-B1BC-9AEF681DAD03}|CyberSecurityDS\\CyberSecurityDS.csproj|solutionrelative:cybersecurityds\\models\\phishingattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefensiveSoftware.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\DefensiveSoftware.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowFMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:24:08.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefensiveSoftwareRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Repositories\\DefensiveSoftwareRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:40:19.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICyberAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\Contracts\\ICyberAttack.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\Contracts\\ICyberAttack.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\Contracts\\ICyberAttack.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\Contracts\\ICyberAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:24:20.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Antivirus.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\Antivirus.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\Antivirus.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\Antivirus.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\Antivirus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:32:38.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CyberAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\CyberAttack.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\CyberAttack.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\CyberAttack.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\CyberAttack.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:04:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Core\\Controller.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Core\\Controller.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwNwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:16:19.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CyberAttackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Repositories\\CyberAttackRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:33:44.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SystemManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\SystemManager.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\SystemManager.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\SystemManager.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\SystemManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:43:59.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:21:03.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:05:07.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Firewall.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\Firewall.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\Firewall.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\Firewall.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\Firewall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:31:43.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MalwareAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\MalwareAttack.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\MalwareAttack.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\MalwareAttack.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\MalwareAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:18:12.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhishingAttack.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\PhishingAttack.cs",
+              "RelativeDocumentMoniker": "CyberSecurityDS\\Models\\PhishingAttack.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam  18 Dec 2024 \u041C\u041E\u042F \u0418\u0417\u041F\u0418\u0422\\CyberSecurityDS\\CyberSecurityDS\\Models\\PhishingAttack.cs",
+              "RelativeToolTip": "CyberSecurityDS\\Models\\PhishingAttack.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:14:29.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\refint\NetTraderSystem.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam  8 December 2024\NetTraerSystem\NetTraderSystem\obj\Debug\net6.0\ref\NetTraderSystem.dll

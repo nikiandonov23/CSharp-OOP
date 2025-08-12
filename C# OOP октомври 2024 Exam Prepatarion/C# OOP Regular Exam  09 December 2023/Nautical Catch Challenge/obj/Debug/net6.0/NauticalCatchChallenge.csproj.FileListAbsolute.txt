@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Regular Exam - 09 December 2023\Nautical Catch Challenge\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll

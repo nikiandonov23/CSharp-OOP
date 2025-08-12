@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\inamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\inamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\bordercontrol\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6936EE-EA4A-40C7-9F85-D52C8564420B}|BorderControl\\BorderControl.csproj|solutionrelative:bordercontrol\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\telephony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|solutionrelative:telephony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\telephony\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|solutionrelative:telephony\\icaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\telephony\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|solutionrelative:telephony\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\telephony\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|solutionrelative:telephony\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\telephony\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19110BFC-C910-448A-9619-99352F652539}|Telephony\\Telephony.csproj|solutionrelative:telephony\\ibrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\exercise interfaces and abstraction\\personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B6F6A-EF19-4DA5-B9B3-63E2852BCDC7}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rebel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\Rebel.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Rebel.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\Rebel.cs",
+              "RelativeToolTip": "BorderControl\\Rebel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:38:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBuyer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\IBuyer.cs",
+              "RelativeDocumentMoniker": "BorderControl\\IBuyer.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\IBuyer.cs",
+              "RelativeToolTip": "BorderControl\\IBuyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:33:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\Robot.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Robot.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\Robot.cs",
+              "RelativeToolTip": "BorderControl\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:36:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\StartUp.cs",
+              "RelativeDocumentMoniker": "BorderControl\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\StartUp.cs",
+              "RelativeToolTip": "BorderControl\\StartUp.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:30:16.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\IBirthable.cs",
+              "RelativeToolTip": "PersonInfo\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:54:04.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\IIdentifiable.cs",
+              "RelativeToolTip": "PersonInfo\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\Citizen.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\Citizen.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\Citizen.cs",
+              "RelativeToolTip": "PersonInfo\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:49:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\StartUp.cs",
+              "RelativeToolTip": "PersonInfo\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:46:34.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\IPerson.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IPerson.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\PersonInfo\\IPerson.cs",
+              "RelativeToolTip": "PersonInfo\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:48:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\IIdentifiable.cs",
+              "RelativeToolTip": "BorderControl\\IIdentifiable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:33:03.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\Citizen.cs",
+              "RelativeDocumentMoniker": "BorderControl\\Citizen.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\Citizen.cs",
+              "RelativeToolTip": "BorderControl\\Citizen.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:34:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INamable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\INamable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\INamable.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\INamable.cs",
+              "RelativeToolTip": "BorderControl\\INamable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:07:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\IBirthable.cs",
+              "RelativeDocumentMoniker": "BorderControl\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\BorderControl\\IBirthable.cs",
+              "RelativeToolTip": "BorderControl\\IBirthable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:00:31.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\Program.cs",
+              "RelativeDocumentMoniker": "Telephony\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\Program.cs",
+              "RelativeToolTip": "Telephony\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:58:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICaller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\ICaller.cs",
+              "RelativeDocumentMoniker": "Telephony\\ICaller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\ICaller.cs",
+              "RelativeToolTip": "Telephony\\ICaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:02:37.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBrowser.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\IBrowser.cs",
+              "RelativeDocumentMoniker": "Telephony\\IBrowser.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\IBrowser.cs",
+              "RelativeToolTip": "Telephony\\IBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:05:05.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Telephony\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\Smartphone.cs",
+              "RelativeToolTip": "Telephony\\Smartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:05:31.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StationaryPhone.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\StationaryPhone.cs",
+              "RelativeDocumentMoniker": "Telephony\\StationaryPhone.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Exercise Interfaces and Abstraction\\Telephony\\StationaryPhone.cs",
+              "RelativeToolTip": "Telephony\\StationaryPhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:08:39.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

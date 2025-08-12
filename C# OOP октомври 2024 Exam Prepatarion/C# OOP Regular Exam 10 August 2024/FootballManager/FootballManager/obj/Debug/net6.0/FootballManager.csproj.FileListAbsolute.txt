@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\bin\Debug\net6.0\FootballManager.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\refint\FootballManager.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\FootballManager.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\FootballManager\FootballManager\obj\Debug\net6.0\ref\FootballManager.dll

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\bin\Debug\net6.0\1. Shapes.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\bin\Debug\net6.0\1. Shapes.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\bin\Debug\net6.0\1. Shapes.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\bin\Debug\net6.0\1. Shapes.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\bin\Debug\net6.0\1. Shapes.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\refint\1. Shapes.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\1. Shapes.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Interfaces and Abstraction\1. Shapes\obj\Debug\net6.0\ref\1. Shapes.dll

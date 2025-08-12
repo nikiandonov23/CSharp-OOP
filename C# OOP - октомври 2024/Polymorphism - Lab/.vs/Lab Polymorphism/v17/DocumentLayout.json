@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|solutionrelative:shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|solutionrelative:shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC31156D-047D-4D19-8E78-B2367DFD7F55}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|solutionrelative:animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7674440E-1EEE-46EE-AA33-4A38B07D6A66}|Animals\\Animals.csproj|solutionrelative:animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\mathoperation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|solutionrelative:mathoperation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\mathoperation\\idecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|solutionrelative:mathoperation\\idecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\mathoperation\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|solutionrelative:mathoperation\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\mathoperation\\iint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|solutionrelative:mathoperation\\iint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\mathoperation\\idouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9383F918-0E9C-43BD-8FA2-3E677966436E}|MathOperation\\MathOperation.csproj|solutionrelative:mathoperation\\idouble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\demo\\hiphopara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|solutionrelative:demo\\hiphopara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\demo\\mangal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|solutionrelative:demo\\mangal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\lab polymorphism\\demo\\imusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1118D2-39BE-4B00-A27B-1FD20457DF1E}|demo\\demo.csproj|solutionrelative:demo\\imusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:28:42.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:25:45.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Shapes\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:22:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\StartUp.cs",
+              "RelativeDocumentMoniker": "Shapes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Shapes\\StartUp.cs",
+              "RelativeToolTip": "Shapes\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:21:16.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\Dog.cs",
+              "RelativeToolTip": "Animals\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:07:53.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\Cat.cs",
+              "RelativeToolTip": "Animals\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:06:19.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:00:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:59:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDecimal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\IDecimal.cs",
+              "RelativeDocumentMoniker": "MathOperation\\IDecimal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\IDecimal.cs",
+              "RelativeToolTip": "MathOperation\\IDecimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:53:23.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDouble.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\IDouble.cs",
+              "RelativeDocumentMoniker": "MathOperation\\IDouble.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\IDouble.cs",
+              "RelativeToolTip": "MathOperation\\IDouble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:52:42.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IInt.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\IInt.cs",
+              "RelativeDocumentMoniker": "MathOperation\\IInt.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\IInt.cs",
+              "RelativeToolTip": "MathOperation\\IInt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:51:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MathOperation\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\MathOperations.cs",
+              "RelativeToolTip": "MathOperation\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:50:44.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\StartUp.cs",
+              "RelativeDocumentMoniker": "MathOperation\\StartUp.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\MathOperation\\StartUp.cs",
+              "RelativeToolTip": "MathOperation\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:49:49.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hiphopara.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\Hiphopara.cs",
+              "RelativeDocumentMoniker": "demo\\Hiphopara.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\Hiphopara.cs",
+              "RelativeToolTip": "demo\\Hiphopara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:01:13.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mangal.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\Mangal.cs",
+              "RelativeDocumentMoniker": "demo\\Mangal.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\Mangal.cs",
+              "RelativeToolTip": "demo\\Mangal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:00:14.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMusic.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\IMusic.cs",
+              "RelativeDocumentMoniker": "demo\\IMusic.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\IMusic.cs",
+              "RelativeToolTip": "demo\\IMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:59:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\Program.cs",
+              "RelativeDocumentMoniker": "demo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\Lab Polymorphism\\demo\\Program.cs",
+              "RelativeToolTip": "demo\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:16:18.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

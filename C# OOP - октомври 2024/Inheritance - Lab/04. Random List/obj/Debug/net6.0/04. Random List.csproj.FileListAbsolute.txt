@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\bin\Debug\net6.0\04. Random List.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\bin\Debug\net6.0\04. Random List.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\bin\Debug\net6.0\04. Random List.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\bin\Debug\net6.0\04. Random List.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\bin\Debug\net6.0\04. Random List.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\refint\04. Random List.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\04. Random List.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\04. Random List\obj\Debug\net6.0\ref\04. Random List.dll

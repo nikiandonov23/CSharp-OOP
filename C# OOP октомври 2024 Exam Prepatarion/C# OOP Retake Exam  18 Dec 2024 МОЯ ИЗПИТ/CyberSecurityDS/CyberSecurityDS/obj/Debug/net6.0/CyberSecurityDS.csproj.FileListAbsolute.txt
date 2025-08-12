@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.exe
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.deps.json
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.dll
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\bin\Debug\net6.0\CyberSecurityDS.pdb
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.dll
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\refint\CyberSecurityDS.dll
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.pdb
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\CyberSecurityDS.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\ИЗПИТА\CyberSecurityDS\CyberSecurityDS\obj\Debug\net6.0\ref\CyberSecurityDS.dll

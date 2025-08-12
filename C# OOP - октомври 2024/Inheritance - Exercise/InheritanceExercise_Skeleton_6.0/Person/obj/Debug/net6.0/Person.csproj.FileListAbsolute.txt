@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Inheritance\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\ref\Person.dll

@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\bin\Debug\net6.0\4. Sum of Integers.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\bin\Debug\net6.0\4. Sum of Integers.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\bin\Debug\net6.0\4. Sum of Integers.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\bin\Debug\net6.0\4. Sum of Integers.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\bin\Debug\net6.0\4. Sum of Integers.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\refint\4. Sum of Integers.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\4. Sum of Integers.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Exceptions and Error Handling Lab\4. Sum of Integers\obj\Debug\net6.0\ref\4. Sum of Integers.dll

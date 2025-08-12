@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\bin\Debug\net6.0\01. Single Inheritance.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\refint\01. Single Inheritance.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\01. Single Inheritance.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Lab Inheritance\01. Single Inheritance\obj\Debug\net6.0\ref\01. Single Inheritance.dll

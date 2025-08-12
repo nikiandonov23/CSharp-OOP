@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.exe
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.deps.json
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.dll
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.pdb
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.dll
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\refint\MathOperation.dll
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.pdb
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\Lab Polymorphism\MathOperation\obj\Debug\net6.0\ref\MathOperation.dll

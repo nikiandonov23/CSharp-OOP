@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75DC8F6-BEAB-47DC-AFB4-80A674AEF5CC}|06. Money Transactions\\06. Money Transactions.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab exceptions and error handling lab\\06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75DC8F6-BEAB-47DC-AFB4-80A674AEF5CC}|06. Money Transactions\\06. Money Transactions.csproj|solutionrelative:06. money transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD4AA3C-B4E5-4A72-B359-2FB004DDC6A4}|5. Play Catch\\5. Play Catch.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab exceptions and error handling lab\\5. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD4AA3C-B4E5-4A72-B359-2FB004DDC6A4}|5. Play Catch\\5. Play Catch.csproj|solutionrelative:5. play catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA521F40-244D-48EC-9210-28D516980E93}|4. Sum of Integers\\4. Sum of Integers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab exceptions and error handling lab\\4. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA521F40-244D-48EC-9210-28D516980E93}|4. Sum of Integers\\4. Sum of Integers.csproj|solutionrelative:4. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381851E6-DE5A-4A00-B58F-DC3FC01E9C2D}|3. Cards\\3. Cards.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab exceptions and error handling lab\\3. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381851E6-DE5A-4A00-B58F-DC3FC01E9C2D}|3. Cards\\3. Cards.csproj|solutionrelative:3. cards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381851E6-DE5A-4A00-B58F-DC3FC01E9C2D}|3. Cards\\3. Cards.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab exceptions and error handling lab\\3. cards\\3. cards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{381851E6-DE5A-4A00-B58F-DC3FC01E9C2D}|3. Cards\\3. Cards.csproj|solutionrelative:3. cards\\3. cards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7780E11-4D21-41DF-B5CE-529D735D1C59}|2. Enter Numbers\\2. Enter Numbers.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab exceptions and error handling lab\\2. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7780E11-4D21-41DF-B5CE-529D735D1C59}|2. Enter Numbers\\2. Enter Numbers.csproj|solutionrelative:2. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CA9F66-68A9-40F0-A853-2D06949039F1}|01.Square Root\\01.Square Root.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\source\\repos\\c# oop\\lab exceptions and error handling lab\\01.square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22CA9F66-68A9-40F0-A853-2D06949039F1}|01.Square Root\\01.Square Root.csproj|solutionrelative:01.square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\06. Money Transactions\\Program.cs",
+              "RelativeDocumentMoniker": "06. Money Transactions\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\06. Money Transactions\\Program.cs",
+              "RelativeToolTip": "06. Money Transactions\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:38:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\5. Play Catch\\Program.cs",
+              "RelativeDocumentMoniker": "5. Play Catch\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\5. Play Catch\\Program.cs",
+              "RelativeToolTip": "5. Play Catch\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:01:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\4. Sum of Integers\\Program.cs",
+              "RelativeDocumentMoniker": "4. Sum of Integers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\4. Sum of Integers\\Program.cs",
+              "RelativeToolTip": "4. Sum of Integers\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:13:08.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3. Cards.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\3. Cards\\3. Cards.csproj",
+              "RelativeDocumentMoniker": "3. Cards\\3. Cards.csproj",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\3. Cards\\3. Cards.csproj",
+              "RelativeToolTip": "3. Cards\\3. Cards.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T21:57:54.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\3. Cards\\Program.cs",
+              "RelativeDocumentMoniker": "3. Cards\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\3. Cards\\Program.cs",
+              "RelativeToolTip": "3. Cards\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:13:32.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\2. Enter Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "2. Enter Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\2. Enter Numbers\\Program.cs",
+              "RelativeToolTip": "2. Enter Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:23:48.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\01.Square Root\\Program.cs",
+              "RelativeDocumentMoniker": "01.Square Root\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\source\\repos\\C# OOP\\Lab Exceptions and Error Handling Lab\\01.Square Root\\Program.cs",
+              "RelativeToolTip": "01.Square Root\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:22:15.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

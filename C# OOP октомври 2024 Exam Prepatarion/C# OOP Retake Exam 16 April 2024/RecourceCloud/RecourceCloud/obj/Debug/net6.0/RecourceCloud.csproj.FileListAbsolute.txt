@@ -1,0 +1,14 @@
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\bin\Debug\net6.0\RecourceCloud.exe
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\bin\Debug\net6.0\RecourceCloud.deps.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\bin\Debug\net6.0\RecourceCloud.runtimeconfig.json
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\bin\Debug\net6.0\RecourceCloud.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\bin\Debug\net6.0\RecourceCloud.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\RecourceCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\RecourceCloud.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\RecourceCloud.AssemblyInfo.cs
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\RecourceCloud.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\RecourceCloud.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\refint\RecourceCloud.dll
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\RecourceCloud.pdb
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\RecourceCloud.genruntimeconfig.cache
+C:\Users\НАТАЛИ\Desktop\Изпити\C# OOP Retake Exam 16 April 2024\RecourceCloud\RecourceCloud\obj\Debug\net6.0\ref\RecourceCloud.dll

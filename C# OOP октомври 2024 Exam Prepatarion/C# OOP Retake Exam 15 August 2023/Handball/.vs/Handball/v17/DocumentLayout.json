@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\models\\contracts\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\contracts\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\models\\goalkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\goalkeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\models\\forwardwing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\forwardwing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\models\\centerback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\models\\centerback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\utilities\\messages\\outputmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\\desktop\\\u0438\u0437\u043F\u0438\u0442\u0438\\c# oop retake exam 15 august 2023\\handball\\handball\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048C2024-3C69-4C3E-A49E-08177C1E35B7}|Handball\\Handball.csproj|solutionrelative:handball\\utilities\\messages\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Handball\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Core\\Controller.cs",
+              "RelativeToolTip": "Handball\\Core\\Controller.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAKcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:09:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Player.cs",
+              "RelativeToolTip": "Handball\\Models\\Player.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAxwDQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:22:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Repositories\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "Handball\\Repositories\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Repositories\\PlayerRepository.cs",
+              "RelativeToolTip": "Handball\\Repositories\\PlayerRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:35:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CenterBack.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\CenterBack.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\CenterBack.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\CenterBack.cs",
+              "RelativeToolTip": "Handball\\Models\\CenterBack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:49:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForwardWing.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\ForwardWing.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\ForwardWing.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\ForwardWing.cs",
+              "RelativeToolTip": "Handball\\Models\\ForwardWing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:50:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goalkeeper.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Goalkeeper.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\Goalkeeper.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Goalkeeper.cs",
+              "RelativeToolTip": "Handball\\Models\\Goalkeeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:47:04.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Team.cs",
+              "RelativeToolTip": "Handball\\Models\\Team.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:54:55.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITeam.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Contracts\\ITeam.cs",
+              "RelativeDocumentMoniker": "Handball\\Models\\Contracts\\ITeam.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Models\\Contracts\\ITeam.cs",
+              "RelativeToolTip": "Handball\\Models\\Contracts\\ITeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:49:27.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Handball\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "Handball\\Repositories\\TeamRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:43:32.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OutputMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeDocumentMoniker": "Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "RelativeToolTip": "Handball\\Utilities\\Messages\\OutputMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:16:19.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Handball\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Core\\Engine.cs",
+              "RelativeToolTip": "Handball\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:10:27.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "Handball\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0410\u0422\u0410\u041B\u0418\\Desktop\\\u0418\u0437\u043F\u0438\u0442\u0438\\C# OOP Retake Exam 15 August 2023\\Handball\\Handball\\Utilities\\Messages\\ExceptionMessages.cs",
+              "RelativeToolTip": "Handball\\Utilities\\Messages\\ExceptionMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:27:09.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

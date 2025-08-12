@@ -1,0 +1,15 @@
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.sourcelink.json
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+C:\Users\НАТАЛИ\source\repos\C# OOP\Exercise Encapsulation\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll
